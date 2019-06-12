@@ -1,7 +1,7 @@
 ---
 layout: page
-/*title: Academic Contributions*/
-subtitle: Academic Contributions
+title: Academic Contributions
+/*subtitle: Academic Contributions*/
 ---
 
 - **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
