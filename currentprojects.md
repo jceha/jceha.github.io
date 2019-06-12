@@ -7,7 +7,7 @@ title: Current Projects
 	<li>
 		<figure class="clear">
 			<div class="imgl">
-				<img src="img/TeachableRobotProject.jpg" alt="" width="300px">
+				<img src="/img/TeachableRobotProject.png" alt="" width="300px">
 			</div>
 			<figcaption>
 				<p class="name">
