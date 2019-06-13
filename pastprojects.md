@@ -12,7 +12,7 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 <br>
 
 
-<p align="center"><b>Psychoacoustic Experiment on Voice Perception</b></p>
+<p align="center"><b>Voice Perception</b></p>
 <p align="center">
     <img src="/img/PsychoacousticExperiment.png" alt="" width="300px">
 </p>
@@ -20,7 +20,7 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 Psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations.
 <br>
 
-<p align="center"><b>EEG-based Neurofeedback System (Brain-Computer Interface)</b></p>
+<p align="center"><b>Neurofeedback (Brain-Computer Interface)</b></p>
 <p align="center">
     <img src="/img/Neurofeedback.png" alt="" width="300px">
 </p>
@@ -28,7 +28,7 @@ Psychoacoustic experiment on voice perception with cochlear implant (CI) and hea
 Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users.
 <br>
 
-<p align="center"><b>EEG study on Theta Oscillation Phase-Locking</b></p>
+<p align="center"><b>Theta Oscillation Phase-Locking</b></p>
 <p align="center">
     <img src="/img/PhaseLocking.png" alt="" width="300px">
 </p>
