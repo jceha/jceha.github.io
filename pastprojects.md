@@ -28,7 +28,7 @@ Psychoacoustic experiment on voice perception with cochlear implant (CI) and hea
 Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users.
 <br>
 
-**EEG study on Theta Oscillation Phase-Locking**<
+**EEG study on Theta Oscillation Phase-Locking**
 <p align="left">
     <img src="/img/PhaseLocking.png" alt="" width="300px">
 </p>

@@ -3,15 +3,19 @@ layout: page
 title: Current Projects
 ---
 
+<div>
 
-**Teachable Agents - Curious Robot Peers**
-<p align="left">
-    <img src="/img/TeachableRobotProject.png" alt="" width="300px">
+<p style="float: left;">
+    <img src="/img/TeachableRobotProject.png" alt="" width="300px" border="1px">
 </p>
-
-
+<p>
+**Teachable Agents - Curious Robot Peers**<br>
 Curiosity a well-studied psychological phenomenon and a powerful motivating factor designers can leverage to increase user engagement, particularly in applications requiring long-term interaction (e.g., tutoring systems, health tracking tools). In the teachable robot project, we aim to design a teachable robot agent with the explicit goal of inducing students' curiosity about the material being taught, and use the teachable robot agent as an experimentation platform to study technology-mediated peer learning.
-<br>
+</p>
+</div>
+
+
+
 
 **Co-designing Educational Robots with Teachers**
 <p align="left">
