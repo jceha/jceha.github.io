@@ -33,7 +33,7 @@ Developed and pilot tested an electroencephalography (EEG) based neurofeedback s
     <img src="/img/PhaseLocking.png" alt="" width="300px">
 </p>
 
-EEG study on theta oscillation phase-locking after attentional blink (AB) training.
+EEG study on theta oscillation phase-locking after attentional blink (AB) training. AB is a phenomenon that reflects the temporal costs in allocating selective attention.
 <br>
 
 
