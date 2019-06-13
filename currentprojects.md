@@ -13,16 +13,16 @@ title: Current Projects
 Curiosity a well-studied psychological phenomenon and a powerful motivating factor designers can leverage to increase user engagement, particularly in applications requiring long-term interaction (e.g., tutoring systems, health tracking tools). In the teachable robot project, we aim to design a teachable robot agent with the explicit goal of inducing students' curiosity about the material being taught, and use the teachable robot agent as an experimentation platform to study technology-mediated peer learning.
 <br>
 
-**Co-designing Educational Robots with Teachers**
-<p align="left">
+<p align="center"><b>Co-designing Educational Robots with Teachers</b></p>
+<p align="center">
     <img src="/img/ActivityTheory.png" alt="" width="300px">
 </p>
 
 We worked with teachers to conceptualize possible robot roles and the effects they may have on the current way learning activities are designed, planned, and executed. 
 <br>
 
-**Neural Correlates of Curiosity**
-<p align="left">
+<p align="center"><b>Neural Correlates of Curiosity</b></p>
+<p align="center">
     <img src="/img/NeuralCuriosity.png" alt="" width="300px">
 </p>
 

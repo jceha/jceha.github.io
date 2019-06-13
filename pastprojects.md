@@ -3,8 +3,8 @@ layout: page
 title: Past Projects
 ---
 
-**Voice Assistants (Amazon Alexa)**
-<p align="left">
+<p align="center"><b>Voice Assistants (Amazon Alexa)</b></p>
+<p align="center">
     <img src="/img/AlienInvasion.png" alt="" width="300px">
 </p>
 
@@ -12,24 +12,24 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 <br>
 
 
-**Psychoacoustic Experiment on Voice Perception**
-<p align="left">
+<p align="center"><b>Psychoacoustic Experiment on Voice Perception</b></p>
+<p align="center">
     <img src="/img/PsychoacousticExperiment.png" alt="" width="300px">
 </p>
 
 Psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations.
 <br>
 
-**EEG-based Neurofeedback System (Brain-Computer Interface)**
-<p align="left">
+<p align="center"><b>EEG-based Neurofeedback System (Brain-Computer Interface)</b></p>
+<p align="center">
     <img src="/img/Neurofeedback.png" alt="" width="300px">
 </p>
 
 Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users.
 <br>
 
-**EEG study on Theta Oscillation Phase-Locking**
-<p align="left">
+<p align="center"><b>EEG study on Theta Oscillation Phase-Locking</b></p>
+<p align="center">
     <img src="/img/PhaseLocking.png" alt="" width="300px">
 </p>
 
@@ -37,12 +37,12 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
 <br>
 
 
-**Electromyography (EMG)-powered Robotic Hand**
-<p align="left">
+<p align="center"><b>Electromyography (EMG)-powered Robotic Hand</b></p>
+<p align="center">
     <img src="/img/Hand.png" alt="" width="300px">
 </p>
 
-Built a 3D printed EMG-powered robot hand.
+Together with a graduate physics student, I completed a project for _Science LinX_, an organization which aims to familiarize high school students with science through interactive exhibits and workshops throughout the Netherlands. We created a prototype of an interactive system demonstrating the idea behind neuroprosthetics.
 
 
 
