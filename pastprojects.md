@@ -4,7 +4,7 @@ title: Past Projects
 ---
 
 **Voice Assistants (Amazon Alexa)**
-<p align="center">
+<p align="left">
     <img src="/img/AlienInvasion.png" alt="" width="300px">
 </p>
 
@@ -13,7 +13,7 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 
 
 **Psychoacoustic Experiment on Voice Perception**
-<p align="center">
+<p align="left">
     <img src="/img/PsychoacousticExperiment.png" alt="" width="300px">
 </p>
 
@@ -21,7 +21,7 @@ Psychoacoustic experiment on voice perception with cochlear implant (CI) and hea
 <br>
 
 **EEG-based Neurofeedback System (Brain-Computer Interface)**
-<p align="center">
+<p align="left">
     <img src="/img/Neurofeedback.png" alt="" width="300px">
 </p>
 
@@ -29,7 +29,7 @@ Developed and pilot tested an electroencephalography (EEG) based neurofeedback s
 <br>
 
 **EEG study on Theta Oscillation Phase-Locking**<
-<p align="center">
+<p align="left">
     <img src="/img/PhaseLocking.png" alt="" width="300px">
 </p>
 
@@ -38,7 +38,7 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
 
 
 **Electromyography (EMG)-powered Robotic Hand**
-<p align="center">
+<p align="left">
     <img src="/img/PhaseLocking.png" alt="" width="300px">
 </p>
 
