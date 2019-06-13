@@ -4,8 +4,8 @@ title: Current Projects
 ---
 
 
-**Teachable Agents - Curious Robot Peers**
-<p align="left">
+<p align="center"><b>Teachable Agents - Curious Robot Peers</b></p>
+<p align="center">
     <img src="/img/TeachableRobotProject.png" alt="" width="300px">
 </p>
 
