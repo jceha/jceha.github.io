@@ -39,10 +39,10 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
 
 **Electromyography (EMG)-powered Robotic Hand**
 <p align="left">
-    <img src="/img/PhaseLocking.png" alt="" width="300px">
+    <img src="/img/Hand.png" alt="" width="300px">
 </p>
 
-Built a 3D printed EMG-powered robot hand...
+Built a 3D printed EMG-powered robot hand.
 
 
 
