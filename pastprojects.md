@@ -8,7 +8,7 @@ title: Past Projects
     <img src="/img/AlienInvasion.png" alt="" width="300px">
 </p>
 
-Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.
+Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.
 <br>
 
 

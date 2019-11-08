@@ -4,9 +4,13 @@ title: Academic Contributions
 /*subtitle: Academic Contributions*/
 ---
 
-- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
+- (in preparation) **Ceha, J.**, Law, E., Kulic, D., Oudeyer P-Y., and Roy, D. Participatory design for identifying the roles of robots in learning activities. 
 
-- Law, E., **Ceha, J.**, Kulic, D., Oudeyer P-Y., and Roy, D. (2019). Participatory design for identifying the roles of robots in learning activities.  In preparation.
+- (under review) Henderson, J., **Ceha, J.**, and Lank, E. (2020). Pocket Typing: Mobile Text Entry At Your Side or In Your Pocket for HMDs.
+
+- (under review) Law, E., Ravari, B. P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha, J.**, Suh, S., Dillen, N., and Yang, K. (2020). Curiosity Notebook: A Learning-by- Teaching Platform with Conversational Agents.
+
+- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
 
 - Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297.
 
