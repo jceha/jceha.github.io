@@ -12,6 +12,6 @@ title: Academic Contributions
 
 **Non-Refereed**
 
-- **Ceha, J. M.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
+- **Ceha, J.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
 - _Theta-band phase locking after attentional blink training._ **Ceha, J.**, Buwalda, T., Taatgen, N., Borst, J., & van Vugt, M. Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
