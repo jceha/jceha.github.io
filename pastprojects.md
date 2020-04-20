@@ -58,19 +58,19 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
  -->
 
 
-**HUMAN-ROBOT INTERACTION** (2015)
+**HUMAN-ROBOT INTERACTION** (2015-2016)
 
-| <img src="/img/robotwaving.png" alt="" width="300px"> |
-|:---:|
-| **The Search For A Waving Person.** With the use of a Kinect sensor and ROS modules a behaviour was built which searched for a waving person in a room by rotating on the spot by small intervals. Once the person was found the robot navigated to him or her and stopped directly in front at a face-to-face angle. Experiments were conducted to measure the accuracy of the behaviour.|
+| <img src="/img/robotwaving.png" alt="" width="300px"> | <img src="/img/Hand.png" alt="" width="300px"> |
+|:---:|:---:|
+| **The Search For A Waving Person.** With the use of a Kinect sensor and ROS modules a behaviour was built which searched for a waving person in a room by rotating on the spot by small intervals. Once the person was found the robot navigated to him or her and stopped directly in front at a face-to-face angle. Experiments were conducted to measure the accuracy of the behaviour.| **EMG-Powered Robotic Hand** Completed a project for [Science LinX](https://www.rug.nl/sciencelinx/), an organization which aims to familiarize high school students with science through interactive exhibits and workshops throughout the Netherlands. Together with a graduate physics student, created a prototype of an interactive system demonstrating the idea behind neuroprosthetics. |
 
 
 
-**EMG-POWERED ROBOTIC HAND** (2016)
+<!-- **EMG-POWERED ROBOTIC HAND** (2016)
 
 | <img src="/img/Hand.png" alt="" width="300px"> |
 |:---:|
-| Completed a project for [Science LinX](https://www.rug.nl/sciencelinx/), an organization which aims to familiarize high school students with science through interactive exhibits and workshops throughout the Netherlands. Together with a graduate physics student, created a prototype of an interactive system demonstrating the idea behind neuroprosthetics. |
+| Completed a project for [Science LinX](https://www.rug.nl/sciencelinx/), an organization which aims to familiarize high school students with science through interactive exhibits and workshops throughout the Netherlands. Together with a graduate physics student, created a prototype of an interactive system demonstrating the idea behind neuroprosthetics. | -->
 
 
 <!-- <p align="center"><b>Electromyography (EMG)-powered Robotic Hand</b></p>
