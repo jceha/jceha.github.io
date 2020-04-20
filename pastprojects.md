@@ -17,7 +17,7 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 
 |<img src="/img/PsychoacousticExperiment.png" alt="" width="300px"> | <img src="/img/Neurofeedback.png" alt="" width="300px"> |
 |:---:|:---:|
-| **Voice Perception.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. | **Neurofeedback (Brain-Computer Interface).** Developed and pilot tested an EEG based neurofeedback system for improving speech perception in cochlear implant users. |
+| **Bimodal Hearing.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. | **Neurofeedback (Brain-Computer Interface).** Developed and pilot tested an EEG based neurofeedback system for improving speech perception in cochlear implant users. |
 
 
 <!-- <p align="center"><b>Voice Perception</b></p>
@@ -38,7 +38,7 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 
 **COGNITIVE MODELLING** (2015)
 
-| <img src="/img/PhaseLocking3.png" alt="" width="300px"> | <img src="/img/actr.png" alt="" width="300px"> |
+| <img src="/img/PhaseLocking3.png" alt="" width="300px" height="200px"> | <img src="/img/actr.png" alt="" width="300px"> |
 |:---:|:---:|
 | **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? |
 
