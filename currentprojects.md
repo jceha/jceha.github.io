@@ -7,7 +7,7 @@ title: Current Projects
 
 | <img src="/img/TeachableRobotProject.png" alt="" width="300px">| <img src="/img/ActivityTheory.png" alt="" width="300px"> |
 |:---:|:---:|
-| **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [published at CHI2019](https://dl.acm.org/doi/pdf/10.1145/3290605.3300636) | **Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed. | 
+| **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636) | **Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed. | 
 |:---:|:---:|
 | <img src="/img/AlienInvasion.png" alt="" width="300px">| <img src="/img/curiositynotebook.png" alt="" width="200px" height="250px">| 
 |:---:|:---:|

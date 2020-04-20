@@ -17,7 +17,7 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 
 |<img src="/img/PsychoacousticExperiment.png" alt="" width="300px"> | <img src="/img/Neurofeedback2.png" alt="" width="300px"> |
 |:---:|:---:|
-| **Bimodal Hearing.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. | **Neurofeedback (Brain-Computer Interface).** Preliminary work on developing an EEG based neurofeedback system for improving speech perception in cochlear implant users. |
+| **Bimodal Hearing.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. [https://doi.org/10.1121/1.5034171](https://doi.org/10.1121/1.5034171)| **Neurofeedback (Brain-Computer Interface).** Preliminary work on developing an EEG based neurofeedback system for improving speech perception in cochlear implant users. |
 
 
 <!-- <p align="center"><b>Voice Perception</b></p>

@@ -7,9 +7,9 @@ title: Academic Contributions
 
 - E. Law, P. Baghaei, N. Chhibber, D. Kulic, S. Lin, K. D. Pantasdo, **J. Ceha**, S. Suh, N. Dillen. Curiosity Notebook: A Platform for Learning by Teaching Conversational Agents. In CHI 2020 Late Breaking Work.
 
-- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
+- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)
 
-- Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297.
+- Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297. [https://doi.org/10.1121/1.5034171](https://doi.org/10.1121/1.5034171)
 
 
 **Non-Refereed**
