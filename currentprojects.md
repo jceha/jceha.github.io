@@ -9,7 +9,7 @@ title: Current Projects
 |:---:|:---:|
 | **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. | **Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed. | 
 |:---:|:---:|
-| <img src="/img/AlienInvasion.png" alt="" width="300px">| <img src="/img/curiositynotebook.png" alt="" width="250px" height="300px">| 
+| <img src="/img/AlienInvasion.png" alt="" width="300px">| <img src="/img/curiositynotebook.png" alt="" width="200px" height="250px">| 
 |:---:|:---:|
 | **Voice-based Agents.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13. | **Teachable Chatbot.** Designing and measuring effects of social behaviours in a chatbot on students. |
 
