@@ -38,7 +38,7 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 
 **COGNITIVE MODELLING** (2015)
 
-| <img src="/img/PhaseLocking2.png" alt="" width="300px" height="400px"> | <img src="/img/actr.png" alt="" width="300px"> |
+| <img src="/img/PhaseLocking3.png" alt="" width="300px"> | <img src="/img/actr.png" alt="" width="300px"> |
 |:---:|:---:|
 | **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? |
 
