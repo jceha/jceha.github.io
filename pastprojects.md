@@ -13,11 +13,11 @@ title: Past Projects
 Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.
 <br>
  -->
-**VOICE PERCEPTION WITH COCHLEAR IMPLANTS** (2014-2016)
+**COCHLEAR IMPLANTS** (2014-2016)
 
-|[[<img src="/img/PsychoacousticExperiment.png" alt="" width="300px">]]  | [[<img src="/img/Neurofeedback.png" alt="" width="300px">]] |
+|<img src="/img/PsychoacousticExperiment.png" alt="" width="300px"> | <img src="/img/Neurofeedback.png" alt="" width="300px"> |
 |:---:|:---:|
-| Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. | Developed and pilot tested an EEG based neurofeedback (brain-computer interface) system for improving speech perception in cochlear implant users. |
+| **Voice Perception.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. | **Neurofeedback (Brain-Computer Interface).** Developed and pilot tested an EEG based neurofeedback system for improving speech perception in cochlear implant users. |
 
 
 <!-- <p align="center"><b>Voice Perception</b></p>
@@ -38,9 +38,9 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 
 **COGNITIVE MODELLING** (2015)
 
-| [[<img src="/img/PhaseLocking2.png" alt="" width="300px" height="400px">]] | [[<img src="/img/actr.png" alt="" width="300px" height="400px">]] |
+| <img src="/img/PhaseLocking2.png" alt="" width="300px" height="400px"> | <img src="/img/actr.png" alt="" width="300px"> |
 |:---:|:---:|
-| EEG study on theta oscillation phase-locking after attentional blink (AB) training.| How Are Time Representations Stored in Memory and What is the Influence of Feedback? Using ACT-R Cognitive Architecture. |
+| **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? |
 
 <!-- <p align="center"><b>Theta Oscillation Phase-Locking</b></p>
 <p align="center">
@@ -52,23 +52,23 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
 
 **USER MODELS** (2015)
 
-| [[<img src="/img/interruptionmanagement.png" alt="" width="300px">]] |
+| <img src="/img/interruptionmanagement.png" alt="" width="300px"> |
 |:---:|
-| Interruption Management System based on pupil dilation as a measure of cognitive workload. |
+| **Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. |
 
 
 
 **HUMAN-ROBOT INTERACTION** (2015)
 
-| [[<img src="/img/robotwaving.png" alt="" width="300px">]] |
+| <img src="/img/robotwaving.png" alt="" width="300px"> |
 |:---:|
-| The Search For A Waving Person. With the use of a Kinect sensor and ROS modules a behaviour was built which searched for a waving person in a room by rotating on the spot by small intervals. Once the person was found the robot navigated to him or her and stopped directly in front at a face-to-face angle. Experiments were conducted to measure the accuracy of the behaviour.|
+| **The Search For A Waving Person.** With the use of a Kinect sensor and ROS modules a behaviour was built which searched for a waving person in a room by rotating on the spot by small intervals. Once the person was found the robot navigated to him or her and stopped directly in front at a face-to-face angle. Experiments were conducted to measure the accuracy of the behaviour.|
 
 
 
 **EMG-POWERED ROBOTIC HAND** (2016)
 
-| [[<img src="/img/Hand.png" alt="" width="300px">]] |
+| <img src="/img/Hand.png" alt="" width="300px"> |
 |:---:|
 | Completed a project for [Science LinX](https://www.rug.nl/sciencelinx/), an organization which aims to familiarize high school students with science through interactive exhibits and workshops throughout the Netherlands. Together with a graduate physics student, created a prototype of an interactive system demonstrating the idea behind neuroprosthetics. |
 
