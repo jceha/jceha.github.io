@@ -36,11 +36,11 @@ Psychoacoustic experiment on voice perception with cochlear implant and hearing 
 Developed and pilot tested an EEG based neurofeedback (brain-computer interface) system for improving speech perception in cochlear implant users.
 <br> -->
 
-**COGNITIVE MODELLING** (2015)
+**COGNITIVE AND USER MODELLING** (2015)
 
-| <img src="/img/PhaseLocking3.png" alt="" width="150px" height="150px"> | <img src="/img/actr.png" alt="" width="300px"> |
-|:---:|:---:|
-| **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? |
+| <img src="/img/PhaseLocking3.png" alt="" width="150px" height="150px"> | <img src="/img/actr.png" alt="" width="300px"> | <img src="/img/interruptionmanagement.png" alt="" width="300px"> |
+|:---:|:---:|:---:|
+| **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? | **Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. |
 
 <!-- <p align="center"><b>Theta Oscillation Phase-Locking</b></p>
 <p align="center">
@@ -50,12 +50,12 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 EEG study on theta oscillation phase-locking after attentional blink (AB) training. AB is a phenomenon that reflects the temporal costs in allocating selective attention.
 <br> -->
 
-**USER MODELS** (2015)
+<!-- **USER MODELS** (2015)
 
 | <img src="/img/interruptionmanagement.png" alt="" width="300px"> |
 |:---:|
 | **Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. |
-
+ -->
 
 
 **HUMAN-ROBOT INTERACTION** (2015)
