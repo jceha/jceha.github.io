@@ -40,7 +40,7 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 
 | <img src="/img/PhaseLocking3.png" alt="" width="150px" height="150px"> | <img src="/img/actr.png" alt="" width="300px"> | <img src="/img/interruptionmanagement.png" alt="" width="300px"> |
 |:---:|:---:|:---:|
-| **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? | **Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. |
+| **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.| **ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? | **Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525)) |
 
 <!-- <p align="center"><b>Theta Oscillation Phase-Locking</b></p>
 <p align="center">
