@@ -3,9 +3,11 @@ layout: page
 title: Current Projects
 ---
 
-**PEDAGOGICAL CONVERSATIONAL AGENTS** (2017 - present)
+## PEDAGOGICAL CONVERSATIONAL AGENTS (2017 - present)
 
 ---
+
+#
 
 **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)
 
