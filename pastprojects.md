@@ -13,7 +13,7 @@ title: Past Projects
 Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.
 <br>
  -->
-**COCHLEAR IMPLANTS** (2014-2016)
+**VOICE PERCEPTION - COCHLEAR IMPLANTS** (2014-2016)
 
 |<img src="/img/PsychoacousticExperiment.png" alt="" width="300px"> | <img src="/img/Neurofeedback2.png" alt="" width="300px"> |
 |---|---|

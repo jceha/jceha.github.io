@@ -5,21 +5,13 @@ title: Current Projects
 
 **PEDAGOGICAL CONVERSATIONAL AGENTS** (2017 - present)
 
-| <img src="/img/TeachableRobotProject.png" alt="" width="300px">| 
-|---|
-| **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636) |
-|---|
-| <img src="/img/ActivityTheory.png" alt="" width="300px"> |
-|---|
-| **Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed. | 
-|---|
-| <img src="/img/AlienInvasion.png" alt="" width="300px">|
-|---|
-| **Voice-based Agents.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13. |
-|---|
-|<img src="/img/curiositynotebook.png" alt="" width="200px" height="250px">| 
-|---|
-| **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.|
+| <img src="/img/TeachableRobotProject.png" alt="" width="300px">| <img src="/img/ActivityTheory.png" alt="" width="300px"> |
+|---|---|
+| **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636) | **Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed. | 
+|:---:|:---:|
+| <img src="/img/AlienInvasion.png" alt="" width="300px">| <img src="/img/curiositynotebook.png" alt="" width="200px" height="250px">| 
+|---|---|
+| **Voice-based Agents.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13. | **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.|
 
 <!-- <p align="center"><b>Curious Robot Peers</b></p>
 <p align="center">
