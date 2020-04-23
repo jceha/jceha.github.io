@@ -13,7 +13,7 @@ title: Past Projects
 Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.
 <br>
  -->
-### VOICE PERCEPTION - COCHLEAR IMPLANTS (2014-2016)
+#### VOICE PERCEPTION - COCHLEAR IMPLANTS (2014-2016)
 
 |<img src="/img/PsychoacousticExperiment.png" alt="" width="300px"> | <img src="/img/Neurofeedback2.png" alt="" width="300px"> |
 |---|---|
@@ -36,7 +36,7 @@ Psychoacoustic experiment on voice perception with cochlear implant and hearing 
 Developed and pilot tested an EEG based neurofeedback (brain-computer interface) system for improving speech perception in cochlear implant users.
 <br> -->
 
-**COGNITIVE AND USER MODELLING** (2015)
+#### COGNITIVE AND USER MODELLING (2015)
 
 | <img src="/img/PhaseLocking3.png" alt="" width="150px" height="150px"> | <img src="/img/actr.png" alt="" width="300px"> | <img src="/img/interruptionmanagement.png" alt="" width="300px"> |
 |---|---|---|
@@ -58,7 +58,7 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
  -->
 
 
-**HUMAN-ROBOT INTERACTION** (2015-2016)
+#### HUMAN-ROBOT INTERACTION (2015-2016)
 
 | <img src="/img/robotwaving.png" alt="" width="300px" height="150px"> | <img src="/img/Hand.png" alt="" width="300px"> |
 |---|---|
