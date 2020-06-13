@@ -77,7 +77,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: true
- # email: "someone@example.com"
+  email: "jceha@uwaterloo.ca"
   #facebook: daattali
 #  github: daattali
   #twitter: daattali
@@ -93,6 +93,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+  google: 4YU1sFUAAAAJ&hl=en&oi=ao
 
 # Select which share links to show in posts
 share-links-active:
