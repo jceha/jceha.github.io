@@ -32,6 +32,8 @@ title: Current Projects
 **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.
 <br>
 
+-------------
+
 
 <!-- 
 | <img src="/img/TeachableRobotProject.png" alt="" width="300px">| <img src="/img/ActivityTheory.png" alt="" width="300px"> |

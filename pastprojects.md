@@ -3,6 +3,15 @@ layout: page
 title: Past Projects
 ---
 
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
+
 <!-- 
 <p align="center"><b>Voice Assistants (Amazon Alexa)</b></p>
 <p align="center">
@@ -42,6 +51,8 @@ Psychoacoustic experiment on voice perception with cochlear implant and hearing 
 Developed and pilot tested an EEG based neurofeedback (brain-computer interface) system for improving speech perception in cochlear implant users.
 <br> -->
 
+-------------
+
 #### COGNITIVE AND USER MODELLING (2015)
 
 ![eeg plot](/img/PhaseLocking3.png#thumbnail){: .image-left }
@@ -52,6 +63,8 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 
 ![Image showing interruption manaagement system](/img/interruptionmanagement.png#thumbnail){: .image-left }
 **Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525))
+
+-------------
 
 <!-- 
 | <img src="/img/PhaseLocking3.png" alt="" width="150px" height="150px"> | <img src="/img/actr.png" alt="" width="300px"> | <img src="/img/interruptionmanagement.png" alt="" width="300px"> |
