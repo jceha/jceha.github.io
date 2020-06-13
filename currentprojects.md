@@ -21,7 +21,7 @@ title: Current Projects
 
 
 ![Diagram of Activity Theory](/img/ActivityTheory.png#thumbnail){: .image-left }
-**Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed.<br>
+**Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed.<br><br><br>
 
 
 ![Picture of youtube video](/img/AlienInvasion.png#thumbnail){: .image-left }
