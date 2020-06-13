@@ -26,7 +26,7 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 
 In discriminating speakers' voices, normal-hearing individuals effectively use two vocal characteristics, vocal pitch (related to fundamental frequency, F0) and vocal-tract length (VTL, related to speaker size). Typical cochlear-implant users show poor perception of these cues.
 
-![spectrograms of 4, 8, and 16 bands in cochlear implant](/img/PsychoacousticExperiment.png#thumbnail){: .image-left }
+![spectrograms of 4, 8, and 16 bands in cochlear implant](/img/PsychoacousticExperiment.png#thumbnail2){: .image-left }
 **Bimodal Hearing.**  In implant users with low-frequency residual acoustic hearing, this bimodal electro-acoustic stimulation may provide additional voice-related cues, such as low-numbered harmonics and formants, which could improve F0/VTL perception. In acoustic noise-vocoder simulations, where added low-pass filtered speech simulated residual hearing, a strong bimodal benefit was observed for F0 perception. No bimodal benefit was observed for VTL, which seems to mainly rely on vocoder spectral resolution. [https://doi.org/10.1121/1.5034171](https://doi.org/10.1121/1.5034171)<br>
 
 ![example of neurofeedback setup](/img/Neurofeedback2.png#thumbnail2){: .image-left }

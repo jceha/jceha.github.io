@@ -793,7 +793,7 @@ img[src*="#thumbnail2"] {
 
 img[src*="#thumbnail3"] {
    width:170px;
-   height:130px;
+   height:100px;
 }
 img[src*="#thumbnail4"] {
    height:160px;
