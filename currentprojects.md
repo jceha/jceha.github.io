@@ -8,12 +8,12 @@ title: Current Projects
   display: block;
   margin-left: auto;
   margin-right: auto;
-  float: left;
+  float: right;
 }
 </style>
 
 
-### PEDAGOGICAL CONVERSATIONAL AGENTS (2017 - present)
+#### PEDAGOGICAL CONVERSATIONAL AGENTS (2017 - present)
 
 
 ![Student and Robot playing game](/img/TeachableRobotProject.png#thumbnail){: .image-left }
@@ -67,7 +67,7 @@ We worked with teachers to conceptualize possible robot roles and the effects th
 | **Amazon Alexa.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13. |
  -->
 
-### NEURAL CORRELATES OF CURIOSITY (2017-present)
+#### NEURAL CORRELATES OF CURIOSITY (2017-present)
 
 ![Diagram of task used in study](/img/NeuralCuriosity.png#thumbnail){: .image-left }
 **Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux. [https://hal.archives-ouvertes.fr/hal-02434249/](https://hal.archives-ouvertes.fr/hal-02434249/)
@@ -89,24 +89,5 @@ In collaboration with [Inria Bordeaux](https://www.inria.fr/en/centre/bordeaux),
 
 
 
-<!-- <ul>
-	<li>
-		<figure class="clear">
-			<div class="imgl">
-				<img src="/img/TeachableRobotProject.png" alt="" width="300px">
-			</div>
-			<figcaption>
-				<p class="name">
-					<strong>
-						Teachable Agents
-					</strong>
-				</p>
-				<p>
-					Curiosity a well-studied psychological phenomenon and a powerful motivating factor designers can leverage to increase user engagement, particularly in applications requiring long-term interaction (e.g., tutoring systems, health tracking tools). In the teachable robot project, we aim to design a teachable robot agent with the explicit goal of inducing student's curiosity about the material being taught, and use the teachable robot agent as an experimentation platform to study technology-mediated peer learning. 
-				</p>
-			</figcaption>
-		</figure>
-	</li>
-</ul> -->
 
 
