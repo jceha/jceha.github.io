@@ -25,10 +25,10 @@ Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www
 #### VOICE PERCEPTION - COCHLEAR IMPLANTS (2014-2016)
 
 ![spectrograms of 4, 8, and 16 bands in cochlear implant](/img/PsychoacousticExperiment.png#thumbnail){: .image-left }
-**Bimodal Hearing.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. [https://doi.org/10.1121/1.5034171](https://doi.org/10.1121/1.5034171)
+**Bimodal Hearing.** Psychoacoustic experiment on voice perception with cochlear implant and hearing aid simulations. [https://doi.org/10.1121/1.5034171](https://doi.org/10.1121/1.5034171)<br>
 
 ![example of neurofeedback setup](/img/Neurofeedback2.png#thumbnail){: .image-left }
-**Neurofeedback (Brain-Computer Interface).** Preliminary work on developing an EEG based neurofeedback system for improving speech perception in cochlear implant users.
+**Neurofeedback (Brain-Computer Interface).** Preliminary work on developing an EEG based neurofeedback system for improving speech perception in cochlear implant users.<br>
 <!-- 
 |<img src="/img/PsychoacousticExperiment.png" alt="" width="300px"> | <img src="/img/Neurofeedback2.png" alt="" width="300px"> |
 |---|---|
@@ -56,13 +56,13 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 #### COGNITIVE AND USER MODELLING (2015)
 
 ![eeg plot](/img/PhaseLocking3.png#thumbnail){: .image-left }
- **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.
+ **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training.<br>
 
 ![Graphs of ACTR output](/img/actr.png#thumbnail){: .image-left }
-**ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? 
+**ACT-R Cognitive Architecture.** How Are Time Representations Stored in Memory and What is the Influence of Feedback? <br>
 
 ![Image showing interruption manaagement system](/img/interruptionmanagement.png#thumbnail){: .image-left }
-**Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525))
+**Interruption Management System.** Based on pupil dilation as a measure of cognitive workload. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525))<br>
 
 -------------
 
@@ -90,7 +90,7 @@ EEG study on theta oscillation phase-locking after attentional blink (AB) traini
 #### HUMAN-ROBOT INTERACTION (2015-2016)
 
 ![Picture showing robot waving experiment](/img/robotwaving.png#thumbnail){: .image-left }
- **The Search For A Waving Person.** With the use of a Kinect sensor and ROS modules a behaviour was built which searched for a waving person in a room by rotating on the spot by small intervals. Once the person was found the robot navigated to him or her and stopped directly in front at a face-to-face angle. Experiments were conducted to measure the accuracy of the behaviour.
+ **The Search For A Waving Person.** With the use of a Kinect sensor and ROS modules a behaviour was built which searched for a waving person in a room by rotating on the spot by small intervals. Once the person was found the robot navigated to him or her and stopped directly in front at a face-to-face angle. Experiments were conducted to measure the accuracy of the behaviour.<br>
 
 ![3d printed robot hand](/img/Hand.png#thumbnail){: .image-left }
 **EMG-Powered Robotic Hand.** Project for [Science LinX](https://www.rug.nl/sciencelinx/), an organization which aims to familiarize high school students with science through interactive exhibits and workshops throughout the Netherlands.

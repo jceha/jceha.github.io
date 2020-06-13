@@ -31,6 +31,7 @@ title: Current Projects
 ![Example of chat with chatbot](/img/curiositynotebook.png#thumbnail){: .image-left }
 **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.
 <br>
+<br>
 
 -------------
 
