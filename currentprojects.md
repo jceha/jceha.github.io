@@ -1,3 +1,12 @@
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+</style>
+
 ---
 layout: page
 title: Current Projects
@@ -6,19 +15,19 @@ title: Current Projects
 #### PEDAGOGICAL CONVERSATIONAL AGENTS (2017 - present)
 
 
-![Student and Robot playing game](/img/TeachableRobotProject.png#thumbnail)[l]
+![Student and Robot playing game](/img/TeachableRobotProject.png#thumbnail){: .image-left }
 **Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)
 
 
-![Diagram of Activity Theory](/img/ActivityTheory.png#thumbnail)[l]
+![Diagram of Activity Theory](/img/ActivityTheory.png#thumbnail){: .image-left }
 **Participatory Design.** Working with teachers to conceptualize possible robot functions and the effects they may have on the current way learning activities are designed, planned, and executed.
 
 
-![Picture of youtube video](/img/AlienInvasion.png#thumbnail)[l]
+![Picture of youtube video](/img/AlienInvasion.png#thumbnail){: .image-left }
 **Voice-based Agents.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.
 
 
-![Example of chat with chatbot](/img/curiositynotebook.png#thumbnail)[l]
+![Example of chat with chatbot](/img/curiositynotebook.png#thumbnail){: .image-left }
 **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.
 
 
@@ -59,7 +68,7 @@ We worked with teachers to conceptualize possible robot roles and the effects th
 
 #### NEURAL CORRELATES OF CURIOSITY (2017-present)
 
-![Diagram of task used in study](/img/NeuralCuriosity.png#thumbnail)[l]
+![Diagram of task used in study](/img/NeuralCuriosity.png#thumbnail){: .image-left }
 **Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux. [https://hal.archives-ouvertes.fr/hal-02434249/](https://hal.archives-ouvertes.fr/hal-02434249/)
 
 <!-- 

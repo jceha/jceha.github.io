@@ -11,3 +11,8 @@ footer.footer-min {
   border-top: 1px solid #eeeeee;
   text-align: center;
 }
+
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
