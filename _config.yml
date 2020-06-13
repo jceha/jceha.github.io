@@ -29,7 +29,7 @@ navbar-links:
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
   #Education: "education"
-  Academic Contributions: "academiccontributions"
+  Publications: "publications"
   Projects:
     - Current Projects: "currentprojects"
     - Past Projects: "https://jceha.github.io/pastprojects/"

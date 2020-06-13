@@ -780,3 +780,8 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
