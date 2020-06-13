@@ -17,7 +17,7 @@ title: Current Projects
 
 
 ![Student and Robot playing game](/img/TeachableRobotProject.png#thumbnail){: .image-left }
-**Expression of Verbal Curiosity in a Social Robot.** Curiosity-the intrinsic desire for new information-can enhance learning, memory, and exploration. Therefore, understanding how to elicit curiosity can inform the design of educational technologies. In this work, we investigate how a social peer robot's verbal expression of curiosity is perceived, whether it can affect the emotional feeling and behavioural expression of curiosity in students, and how it impacts learning. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)<br>
+**Expression of Verbal Curiosity in a Social Robot.** As curiosity has been found to enhance learning, memory, and exploration, understanding how to elicit curiosity can inform the design of educational technologies. In this work, we investigate how a social peer robot's verbal expression of curiosity is perceived, whether it can affect emotional and/or behavioural curiosity contagion in students, and how it impacts learning. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)<br>
 
 
 ![Diagram of Activity Theory](/img/ActivityTheory.png#thumbnail){: .image-left }
@@ -74,7 +74,7 @@ We worked with teachers to conceptualize possible robot roles and the effects th
 #### NEURAL CORRELATES OF CURIOSITY (2017-present)
 
 ![Diagram of task used in study](/img/NeuralCuriosity.png#thumbnail){: .image-left }
-**Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux. [https://hal.archives-ouvertes.fr/hal-02434249/](https://hal.archives-ouvertes.fr/hal-02434249/)
+**Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux (Lead: Aurelien Appriou). [https://hal.archives-ouvertes.fr/hal-02434249/](https://hal.archives-ouvertes.fr/hal-02434249/)
 
 <!-- 
 | <img align="center" src="/img/NeuralCuriosity.png" alt="" width="300px"> |
