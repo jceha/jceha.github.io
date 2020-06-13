@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Contributions
+title: Publications
 /*subtitle: Academic Contributions*/
 ---
 **Refereed**
