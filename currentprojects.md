@@ -25,13 +25,14 @@ title: Current Projects
 
 
 ![Picture of youtube video](/img/AlienInvasion.png#thumbnail){: .image-left }
-**Voice-based Agents.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.<br>
+**Voice-based Agents.** Designed, built, and deployed an Amazon Alexa Skill [Alien Invasion](https://www.youtube.com/watch?v=MK_amN7jztg), with two colleagues: Nalin Chhibber and Sangho Suh, as part of the _Alexa Skills Challenge: Kids_, a competition to publish an Alexa skill for children under 13.<br><br>
 
 
-![Example of chat with chatbot](/img/curiositynotebook.png#thumbnail){: .image-left }
+![Example of chat with chatbot](/img/curiositynotebook.png#thumbnail4){: .image-left }
 **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.
 <br>
 <br>
+<br><br>
 <br>
 
 -------------

@@ -785,3 +785,16 @@ img[src*="#thumbnail"] {
    width:170px;
    height:120px;
 }
+
+img[src*="#thumbnail2"] {
+   width:170px;
+   height:130px;
+}
+
+img[src*="#thumbnail3"] {
+   width:170px;
+   height:130px;
+}
+img[src*="#thumbnail4"] {
+   height:160px;
+}

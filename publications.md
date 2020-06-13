@@ -5,6 +5,9 @@ title: Publications
 ---
 **Refereed**
 
+- Henderson, J., **Ceha, J.**, Lank E. (2020). STAT: Subtle Typing Around the Thigh for Head-Mounted Displays. In _Proceedings of the 22nd International
+Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20) October 5-8, 2020, Oldenburg, Germany_. ACM, New York, NY, USA.
+
 - E. Law, P. Baghaei, N. Chhibber, D. Kulic, S. Lin, K. D. Pantasdo, **J. Ceha**, S. Suh, N. Dillen. Curiosity Notebook: A Platform for Learning by Teaching Conversational Agents. In _CHI 2020 Late Breaking Work._
 
 - **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)

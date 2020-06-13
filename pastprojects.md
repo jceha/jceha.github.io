@@ -29,8 +29,9 @@ In discriminating speakers' voices, normal-hearing individuals effectively use t
 ![spectrograms of 4, 8, and 16 bands in cochlear implant](/img/PsychoacousticExperiment.png#thumbnail){: .image-left }
 **Bimodal Hearing.**  In implant users with low-frequency residual acoustic hearing, this bimodal electro-acoustic stimulation may provide additional voice-related cues, such as low-numbered harmonics and formants, which could improve F0/VTL perception. In acoustic noise-vocoder simulations, where added low-pass filtered speech simulated residual hearing, a strong bimodal benefit was observed for F0 perception. No bimodal benefit was observed for VTL, which seems to mainly rely on vocoder spectral resolution. [https://doi.org/10.1121/1.5034171](https://doi.org/10.1121/1.5034171)<br>
 
-![example of neurofeedback setup](/img/Neurofeedback2.png#thumbnail){: .image-left }
+![example of neurofeedback setup](/img/Neurofeedback2.png#thumbnail2){: .image-left }
 **Neurofeedback (Brain-Computer Interface).**  Preliminary work on developing an electroencephalography (EEG) based neurofeedback system for improving  perception of F0 and VTL for cochlear implant users.<br>
+<br>
 <br>
 
 <!-- 
@@ -59,13 +60,13 @@ Developed and pilot tested an EEG based neurofeedback (brain-computer interface)
 
 #### COGNITIVE AND USER MODELLING (2015)
 
-![eeg plot](/img/PhaseLocking3.png#thumbnail){: .image-left }
+![eeg plot](/img/PhaseLocking3.png#thumbnail2){: .image-left }
  **Theta Oscillation Phase-Locking.** EEG study on theta oscillation phase-locking after attentional blink (AB) training. The AB is a phenomenon which demonstrates the attention limitations of human visual processing. The cause of the AB is thought to be due to a reduction in processing capacity once the first target has been perceived, preventing the processing and conscious perception of a second target.<br>
 
-![Graphs of ACTR output](/img/actr.png#thumbnail){: .image-left }
+![Graphs of ACTR output](/img/actr.png#thumbnail3){: .image-left }
 **ACT-R Cognitive Architecture.** How people make time estimations has been heavily researched over the years. This work provides a cognitive model based on analyses of data from a time estimation task. The model focusses on the role feedback plays on subsequent estimations and suggests ways in which memory traces are formed and retrieved.<br>
 
-![Image showing interruption manaagement system](/img/interruptionmanagement.png#thumbnail){: .image-left }
+![Image showing interruption manaagement system](/img/interruptionmanagement.png#thumbnail2){: .image-left }
 **Interruption Management System.** With multitasking comes interruptions and there is a growing literature on the detrimental effects interruptions have on performance. When best to interrupt a user has become a major area of research in the field of HCI. We developed and tested a system which interrupted users based on their cognitive workload (measured by pupil dilation), and measured their performance by resumption lag. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525))<br>
 <br>
 
