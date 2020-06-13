@@ -17,7 +17,7 @@ title: Current Projects
 
 
 ![Student and Robot playing game](/img/TeachableRobotProject.png#thumbnail){: .image-left }
-**Expression of Verbal Curiosity in a Social Robot.** In this project we aim to design a social robot peer with the explicit goal of inducing students' curiosity. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)<br>
+**Expression of Verbal Curiosity in a Social Robot.** Curiosity-the intrinsic desire for new information-can enhance learning, memory, and exploration. Therefore, understanding how to elicit curiosity can inform the design of educational technologies. In this work, we investigate how a social peer robot's verbal expression of curiosity is perceived, whether it can affect the emotional feeling and behavioural expression of curiosity in students, and how it impacts learning. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)<br>
 
 
 ![Diagram of Activity Theory](/img/ActivityTheory.png#thumbnail){: .image-left }
@@ -30,6 +30,7 @@ title: Current Projects
 
 ![Example of chat with chatbot](/img/curiositynotebook.png#thumbnail){: .image-left }
 **Teachable Chatbot.** Designing and measuring effects of a chatbot's social behaviours on students.
+<br>
 <br>
 <br>
 
