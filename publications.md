@@ -5,10 +5,10 @@ title: Publications
 ---
 **Refereed**
 
-- Henderson, J., **Ceha, J.**, & Lank E. (2020). STAT: Subtle Typing Around the Thigh for Head-Mounted Displays. In _Proceedings of the 22nd International
+- Henderson, J., **Ceha, J.**, & Lank, E. (2020). STAT: Subtle Typing Around the Thigh for Head-Mounted Displays. In _Proceedings of the 22nd International
 Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20)_.
 
-- E. Law, P. Baghaei, N. Chhibber, D. Kulic, S. Lin, K. D. Pantasdo, **J. Ceha**, S. Suh, & N. Dillen. (2020). Curiosity Notebook: A Platform for Learning by Teaching Conversational Agents. In _Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA ’20)_. [https://doi.org/10.1145/3334480.3382783](https://doi.org/10.1145/3334480.3382783)
+- Law, E., Baghaei, P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha, J.**, Suh, S., & Dillen, N. (2020). Curiosity Notebook: A Platform for Learning by Teaching Conversational Agents. In _Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA ’20)_. [https://doi.org/10.1145/3334480.3382783](https://doi.org/10.1145/3334480.3382783)
 
 - **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019)_. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)
 
@@ -17,7 +17,7 @@ Conference on Human-Computer Interaction with Mobile Devices and Services (Mobil
 
 **Non-Refereed**
 
-- E. Law, E. Nilsen, K.J. Lee, A. Chauhan, **J. Ceha**, P. Baghaei, A. Debbane & K. Yang. Learning and Teaching with Conversational Agents. In _CHI 2020 Workshop on Grand Challenges in Conversational UI._
+- Law, E., Nilsen, E., Lee, K.J., Chauhan, A., **Ceha, J.**, Baghaei, P., Debbane, A., & Yang, K. Learning and Teaching with Conversational Agents. In _CHI 2020 Workshop on Grand Challenges in Conversational UI._
 
 - **Ceha, J.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
