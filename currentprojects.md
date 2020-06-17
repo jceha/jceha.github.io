@@ -17,7 +17,7 @@ title: Current Projects
 
 
 ![Student and Robot playing game](/img/TeachableRobotProject.png#thumbnail){: .image-left }
-**Expression of Verbal Curiosity in a Social Robot.** As curiosity has been found to enhance learning, memory, and exploration, understanding how to elicit curiosity can inform the design of educational technologies. In this work, we investigate how a social peer robot's verbal expression of curiosity is perceived, whether it can affect emotional and/or behavioural curiosity contagion in students, and how it impacts learning. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)<br>
+**Verbal Curiosity Expression in a Social Robot.** As curiosity has been found to enhance learning, memory, and exploration, understanding how to elicit curiosity can inform the design of educational technologies. In this work, we investigate how a social peer robot's verbal expression of curiosity is perceived, whether it can affect emotional and/or behavioural curiosity contagion in students, and how it impacts learning. [https://doi.org/10.1145/3290605.3300636](https://doi.org/10.1145/3290605.3300636)<br>
 
 
 ![Diagram of Activity Theory](/img/ActivityTheory.png#thumbnail){: .image-left }
