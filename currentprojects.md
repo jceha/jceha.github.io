@@ -75,7 +75,7 @@ We worked with teachers to conceptualize possible robot roles and the effects th
 #### NEURAL CORRELATES OF CURIOSITY (2017-present)
 
 ![Diagram of task used in study](/img/NeuralCuriosity.png#thumbnail){: .image-left }
-**Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux (Lead: Aurelien Appriou). [https://hal.archives-ouvertes.fr/hal-02434249/](https://hal.archives-ouvertes.fr/hal-02434249/)
+**Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux (Lead: Aurelien Appriou). [https://hal.inria.fr/hal-02971795](https://hal.inria.fr/hal-02971795)
 
 <!-- 
 | <img align="center" src="/img/NeuralCuriosity.png" alt="" width="300px"> |

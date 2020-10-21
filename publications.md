@@ -5,8 +5,10 @@ title: Publications
 ---
 **Refereed**
 
+- Appriou, A., **Ceha, J.**, Pramij, S., Dutartre, D., Law, E., Oudeyer, P-Y., & Lotte, F. Towards measuring states of epistemic curiosity through electroencephalographic signals. _IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC'20)_, Oct 2020, Toronto, Canada. [hal-02971795](https://hal.inria.fr/hal-02971795)
+
 - Henderson, J., **Ceha, J.**, & Lank, E. (2020). STAT: Subtle Typing Around the Thigh for Head-Mounted Displays. In _Proceedings of the 22nd International
-Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20)_.
+Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20)_. [https://doi.org/10.1145/3379503.3403549](https://doi.org/10.1145/3379503.3403549)
 
 - Law, E., Baghaei, P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha, J.**, Suh, S., & Dillen, N. (2020). Curiosity Notebook: A Platform for Learning by Teaching Conversational Agents. In _Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)_. [https://doi.org/10.1145/3334480.3382783](https://doi.org/10.1145/3334480.3382783)
 
