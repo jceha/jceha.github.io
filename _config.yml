@@ -33,7 +33,7 @@ navbar-links:
   Projects:
     - Current Projects: "currentprojects"
     - Past Projects: "https://jceha.github.io/pastprojects/"
-  CV: "jceha.github.io/JCeha_CV_Oct_2020.pdf"
+  CV: "jceha.github.io/J.M.CEHA_CV.pdf"
   Grad School?: "grad_school"
 
 # Image to show in the navigation bar - image must be a square (width = height)
