@@ -107,7 +107,8 @@ In discriminating speakers' voices, normal-hearing individuals effectively use t
 ![example of neurofeedback setup](/img/Neurofeedback2.png#thumbnail2){: .image-left }
 **Neurofeedback (Brain-Computer Interface).**  Preliminary work on developing an electroencephalography (EEG) based neurofeedback system for improving  perception of F0 and VTL for cochlear implant users.<br>
 <br>
-
+<br>
+<br>
 
 -------------
 
@@ -121,6 +122,8 @@ In discriminating speakers' voices, normal-hearing individuals effectively use t
 
 ![Image showing interruption manaagement system](/img/interruptionmanagement.png#thumbnail2){: .image-left }
 **Interruption Management System.** With multitasking comes interruptions and there is a growing literature on the detrimental effects interruptions have on performance. When best to interrupt a user has become a major area of research in the field of HCI. We developed and tested a system which interrupted users based on their cognitive workload (measured by pupil dilation), and measured their performance by resumption lag. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525))<br>
+<br>
+<br>
 <br>
 
 
