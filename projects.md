@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Projects
+title: Projects
 ---
 
 <style type="text/css">
@@ -76,6 +76,9 @@ We worked with teachers to conceptualize possible robot roles and the effects th
 
 ![Diagram of task used in study](/img/NeuralCuriosity.png#thumbnail){: .image-left }
 **Understanding Curiosity.** Towards measuring states of epistemic curiosity through electroencephalographic (EEG) signals. In collaboration with colleagues at Inria Bordeaux (Lead: Aurelien Appriou). [https://hal.inria.fr/hal-02971795](https://hal.inria.fr/hal-02971795)
+<br>
+<br><br>
+<br>
 
 <!-- 
 | <img align="center" src="/img/NeuralCuriosity.png" alt="" width="300px"> |
@@ -104,7 +107,7 @@ In discriminating speakers' voices, normal-hearing individuals effectively use t
 ![example of neurofeedback setup](/img/Neurofeedback2.png#thumbnail2){: .image-left }
 **Neurofeedback (Brain-Computer Interface).**  Preliminary work on developing an electroencephalography (EEG) based neurofeedback system for improving  perception of F0 and VTL for cochlear implant users.<br>
 <br>
-<br>
+
 
 -------------
 
@@ -119,6 +122,7 @@ In discriminating speakers' voices, normal-hearing individuals effectively use t
 ![Image showing interruption manaagement system](/img/interruptionmanagement.png#thumbnail2){: .image-left }
 **Interruption Management System.** With multitasking comes interruptions and there is a growing literature on the detrimental effects interruptions have on performance. When best to interrupt a user has become a major area of research in the field of HCI. We developed and tested a system which interrupted users based on their cognitive workload (measured by pupil dilation), and measured their performance by resumption lag. (Similar work published by colleagues: [https://doi.org/10.1080/10447318.2016.1198525](  https://doi.org/10.1080/10447318.2016.1198525))<br>
 <br>
+
 
 -------------
 
