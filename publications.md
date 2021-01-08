@@ -5,6 +5,8 @@ title: Publications
 ---
 **Refereed**
 
+- **Ceha, J.**, Lee, K. J., Nilsen, L., Goh, J., and Law, E. (2021). Can a Humorous Conversational  Agent Enhance Learning Experience and Outcomes? To appear in _CHI Conference on Human Factors in Computing Systems (CHI '21)._ ACM, New York, NY, USA, 20 pages.
+
 - Appriou, A., **Ceha, J.**, Pramij, S., Dutartre, D., Law, E., Oudeyer, P-Y., & Lotte, F. Towards measuring states of epistemic curiosity through electroencephalographic signals. _IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC'20)_, Oct 2020, Toronto, Canada. [SMC20 Proceedings](http://conf.papercept.net/proceedings/SMC20/0770.pdf)
 
 - Henderson, J., **Ceha, J.**, & Lank, E. (2020). STAT: Subtle Typing Around the Thigh for Head-Mounted Displays. In _Proceedings of the 22nd International

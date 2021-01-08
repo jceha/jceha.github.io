@@ -30,9 +30,9 @@ navbar-links:
     #- GitHub Pages: "https://pages.github.com/"
   #Education: "education"
   Publications: "publications"
-  Projects:
-    - Current Projects: "currentprojects"
-    - Past Projects: "https://jceha.github.io/pastprojects/"
+  Projects: "projects"
+   # - Current Projects: "currentprojects"
+    #- Past Projects: "https://jceha.github.io/pastprojects/"
   CV: "jceha.github.io/J.M.CEHA_CV.pdf"
   Grad School?: "grad_school"
 
