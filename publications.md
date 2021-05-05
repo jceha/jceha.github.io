@@ -7,22 +7,25 @@ title: Publications
 
 Can a Humorous Conversational  Agent Enhance Learning Experience and Outcomes? 
 <br>
-**Ceha, J.**, Lee, K. J., Nilsen, L., Goh, J., and Law, E. (2021). To appear in _CHI Conference on Human Factors in Computing Systems (CHI '21)._ ACM, New York, NY, USA, 20 pages.
+**Ceha, J.**, Lee, K. J., Nilsen, L., Goh, J., and Law, E. (2021). 
+<br>To appear in _CHI Conference on Human Factors in Computing Systems (CHI '21)._ ACM, New York, NY, USA, 20 pages.
 <br>
 
 [Towards measuring states of epistemic curiosity through electroencephalographic signals.](http://conf.papercept.net/proceedings/SMC20/0770.pdf) 
 <br>
-Appriou, A., **Ceha, J.**, Pramij, S., Dutartre, D., Law, E., Oudeyer, P-Y., & Lotte, F. _IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC'20)_, Oct 2020, Toronto, Canada.
+Appriou, A., **Ceha, J.**, Pramij, S., Dutartre, D., Law, E., Oudeyer, P-Y., & Lotte, F. 
+<br>_IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC'20)_, Oct 2020, Toronto, Canada.
 <br>
 
 [STAT: Subtle Typing Around the Thigh for Head-Mounted Displays.](https://doi.org/10.1145/3379503.3403549) 
 <br>
-Henderson, J., **Ceha, J.**, & Lank, E. (2020). In _Proceedings of the 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20)_.
+Henderson, J., **Ceha, J.**, & Lank, E. (2020). 
+<br>In _Proceedings of the 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20)_.
 <br>
 
 [Curiosity Notebook: A Platform for Learning by Teaching Conversational Agents.](https://doi.org/10.1145/3334480.3382783) 
 <br>
-Law, E., Baghaei, P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha, J.**, Suh, S., & Dillen, N. (2020). In _Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)_. 
+Law, E., Baghaei, P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha, J.**, Suh, S., & Dillen, N. (2020). <br>In _Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)_. 
 <br>
 
 [Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.](https://doi.org/10.1145/3290605.3300636) 
@@ -32,7 +35,8 @@ Law, E., Baghaei, P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha,
 
 [The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing.](https://doi.org/10.1121/1.5034171) 
 <br>
-Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297. 
+Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). 
+<br>_The Journal of the Acoustical Society of America, 143_(4), EL292-EL297. 
 <br>
 <br>
 
@@ -41,7 +45,8 @@ Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). 
 
 Learning and Teaching with Conversational Agents. 
 <br>
-Law, E., Nilsen, E., Lee, K.J., Chauhan, A., **Ceha, J.**, Baghaei, P., Debbane, A., & Yang, K. In _CHI 2020 Workshop on Grand Challenges in Conversational UI._
+Law, E., Nilsen, E., Lee, K.J., Chauhan, A., **Ceha, J.**, Baghaei, P., Debbane, A., & Yang, K. 
+<br>In _CHI 2020 Workshop on Grand Challenges in Conversational UI._
 <br>
 
 **Ceha, J.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)

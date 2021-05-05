@@ -805,7 +805,7 @@ img[src*="#thumbnail4"] {
 .flex-container-image-and-text {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -817,13 +817,17 @@ img[src*="#thumbnail4"] {
 }
 
 .title-text {
-  width: 75%;
+  width: 60%;
 }
 
 .fig{
-  width:25%;
+  width:30%;
+  margin-top:15px;
 }
 
 
-
+/* Solid border */
+hr.solid {
+  border-top: 2px solid #bbb;
+}
 
