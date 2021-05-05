@@ -799,3 +799,31 @@ img[src*="#thumbnail3"] {
 img[src*="#thumbnail4"] {
    height:160px;
 }
+
+
+
+.flex-container-image-and-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.flex-container-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.title-text {
+  width: 75%;
+}
+
+.fig{
+  width:25%;
+}
+
+
+
+
