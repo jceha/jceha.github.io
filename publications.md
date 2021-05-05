@@ -30,8 +30,8 @@ Law, E., Baghaei, P., Chhibber, N., Kulic, D., Lin, S., Pantasdo, K. D., **Ceha,
 
 [Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.](https://doi.org/10.1145/3290605.3300636) 
 <br>
-**Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., & Law, E. (2019).  
-<br>In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI '19)_. 
+**Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., & Law, E. (2019).
+<br>In _CHI Conference on Human Factors in Computing Systems (CHI '19)_. 
 <br>
 
 [The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing.](https://doi.org/10.1121/1.5034171) 
