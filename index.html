@@ -1,84 +1,114 @@
----
-layout: page
-title: Ph.D. Candidate in Human-Computer Interaction (HCI)
-subtitle: School of Computer Science, University of Waterloo, Canada
-use-site-title: true
----
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Jessy Ceha - Portfolio</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i&subset=cyrillic" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
 
 
-<div class="about-me">
- <p>Hi! I'm a 4th year Ph.D. candidate in the <a href="http://hci.cs.uwaterloo.ca/">HCI Lab</a> at the University of Waterloo, advisded by <a href="http://edithlaw.ca/">Dr. Edith Law</a>. My research involves designing interactions of conversational agents, from chatbots to physically-embodied robots, that promote social experiences.</p>
- <p>In 2016 I graduated with an <a href="http://www.rug.nl/masters/human-machine-communication/">M.Sc. in Human-Machine Communication</a> cum laude, from the University of Groningen (Institute of Artificial Intelligence and Cognitive Engineering, now the <a href="https://www.rug.nl/research/bernoulli/research/departments">Bernoulli Institute</a>). I was advised by <a href="https://mkvanvugt.wordpress.com/">Dr. Marieke van Vugt</a> and <a href="https://www.dbaskent.org/">Dr. Deniz Başkent</a>, and my thesis focused on improving speech perception for cochlear implant wearers. Alongside my master's I completed the <a href="https://www.rug.nl/education/honours-college/htsm-masterprogramme/">Honours Master</a> High Tech Systems and Materials - a joint collaboration between the University of Groningen & Philips.</p>
- <p>In 2014 I graduated with a <a href="https://cogsys.ubc.ca/about-cogs-2/">B.Sc. in Cognitive Systems</a>: Cognition and Brain, from the University of British Columbia.</p> 
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex align-items-center justify-content-between">
 
-<!-- <p><b>Awards</b><br>
-2019: <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp">Postgraduate Scholarship-Doctoral (PGS D)</a>, Natural Sciences and Engineering Research Council of Canada (NSERC)<br>
-2014: <a href="https://www.rug.nl/alumni/support-research-and-education/projects/avril-mcdonald-memorial-fund">Avril McDonald Prize</a>, University of Groningen</p>
-</div> -->
-
-
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image }}">
-        </a>
+      <div class="logo">
+        <h1><a href="index.html">Jessy Ceha</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link active" href="index.html">Home</a></li>
+          <li><a class="nav-link" href="assets/J.M.Ceha_CV2021.pdf">CV</a></li>
+          <li><a class="nav-link" href="publications.html">Publications</a></li>
+          <li><a class="nav-link" href="projects.html">Projects</a></li>
+          <li><a class="nav-link" href="grad_school.html">Thinking About Grad School?</a></li>
+         
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
     </div>
+  </header><!-- End Header -->
 
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <!-- <section id="about" class="about"> -->
+      <div class="container">
+
+          <center>
+            <img src="assets/img/portrait.png"  class="headshot" style="width:175px"alt="Jessy Ceha">
+
+            </center>
+            <center>
+            <div class="contained-text">
+              <center>
+              <h3>Jessy Ceha</h3>
+              <p style="font-style: italic;">PhD Candidate in Human-Computer Interaction<br>(she/her)</p>
+              </center>
+             <p>Hi! I'm a 4th year Ph.D. candidate in the <a href="http://hci.cs.uwaterloo.ca/">HCI Lab</a> at the University of Waterloo, advisded by <a href="http://edithlaw.ca/">Dr. Edith Law</a>. My research involves designing interactions of conversational agents, from chatbots to physically-embodied robots, that promote social experiences.</p>
+             <p>In 2016 I graduated with an <a href="http://www.rug.nl/masters/human-machine-communication/">M.Sc. in Human-Machine Communication</a> cum laude, from the University of Groningen (Institute of Artificial Intelligence and Cognitive Engineering, now the <a href="https://www.rug.nl/research/bernoulli/">Bernoulli Institute</a>). I was advised by <a href="https://mkvanvugt.wordpress.com/">Dr. Marieke van Vugt</a> and <a href="https://www.dbaskent.org/">Dr. Deniz Başkent</a>, and my thesis focused on improving speech perception for cochlear implant wearers. During my masters, I completed the <a href="https://www.rug.nl/education/honours-college/htsm-masterprogramme/">Honours Master</a> High Tech Systems and Materials - a joint collaboration between the University of Groningen & Philips.</p>
+             <p>In 2014 I graduated with a <a href="https://cogsys.ubc.ca/about-cogs-2/">B.Sc. in Cognitive Systems</a>: Cognition and Brain, from the University of British Columbia.</p> 
+            </div>
+            </center>
+
+        </div>
+      <!-- </section>End About Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <center>
+        <div class="social-links" style="font-size: 32px">
+                <a href="mailto:jceha@uwaterloo.ca" class="mail"><i class="bi bi-envelope-fill">&nbsp;&nbsp;</i></a>
+                <a href="https://scholar.google.com/citations?user=4YU1sFUAAAAJ&hl=en&oi=ao" class="google"><i class="bi bi-google">&nbsp;&nbsp;</i></a>
+                <a href="https://linkedin.com/in/jessy-ceha" class="linkedin"><i class="bi bi-linkedin">&nbsp;&nbsp;</i></a>
+        </div>
+     <strong><span>Jessy Ceha</span></strong>&nbsp;&nbsp;-&nbsp;&nbsp;2021&nbsp;&nbsp;-&nbsp;&nbsp;<a href="index.html">jessyceha.com</a><br><br>
+      
+      </center>
+
     </div>
-    {% endif %}
+  </footer><!-- End  Footer -->
 
-   </article>
-  {% endfor %}
-</div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
