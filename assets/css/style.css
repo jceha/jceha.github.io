@@ -13,15 +13,16 @@ body {
   color: #5a656e;
 }
 
-a {
+/*a {
   color: #d43076;
+  color: #359900;
   text-decoration: none;
-}
+}*/
 
-a:hover {
+/*a:hover {
   color: #dd5a92;
   text-decoration: none;
-}
+}*/
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", serif;
@@ -1000,6 +1001,46 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.mail {
+  color: #d43076;
+  text-decoration: none;
+}
+
+.mail:hover {
+  color: #dd5a92;
+  text-decoration: none;
+}
+
+.google {
+  color: #d43076;
+  text-decoration: none;
+}
+
+.google:hover {
+  color: #dd5a92;
+  text-decoration: none;
+}
+
+.linkedin {
+  color: #d43076;
+  text-decoration: none;
+}
+
+.linkedin:hover {
+  color: #dd5a92;
+  text-decoration: none;
+}
+
+.website_link {
+  color: #d43076;
+  text-decoration: none;
+}
+
+.website_link:hover {
+  color: #dd5a92;
+  text-decoration: none;
+}
+
 .contact .contact-about h3 {
   font-size: 36px;
   margin: 0 0 10px 0;
@@ -1036,6 +1077,7 @@ section {
   height: 36px;
   transition: 0.3s;
   border: 1px solid #d43076;
+  text-decoration: none;
 }
 
 .contact .social-links a:hover {
