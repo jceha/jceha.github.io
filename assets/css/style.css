@@ -13,16 +13,18 @@ body {
   color: #5a656e;
 }
 
-/*a {
-  color: #d43076;
-  color: #359900;
+a {
+  /*color: d43076#;*/
+  /*color: #359900;*/
+  color: #0a58ca;
   text-decoration: none;
-}*/
+}
 
-/*a:hover {
-  color: #dd5a92;
-  text-decoration: none;
-}*/
+a:hover {
+  /*color: #dd5a92;*/
+  color: #0d6efd;
+  text-decoration: underline;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", serif;
@@ -38,7 +40,8 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 9999;
-  background: #d43076;
+  /*background: #d43076;*/
+  background: #9e9e9e;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -52,7 +55,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #db528c;
+  /*background: #db528c;*/
+  background: #bdbdbd;
   color: #fff;
 }
 
@@ -138,7 +142,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #d43076;
+  /*color: #d43076;*/
+  color: #3e2723;
+  font-weight: 900;
 }
 
 .navbar .dropdown ul {
@@ -1002,42 +1008,44 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .mail {
-  color: #d43076;
+  /*color: #d43076;*/
+  color: #f57f17;
   text-decoration: none;
 }
 
 .mail:hover {
-  color: #dd5a92;
+  /*color: #dd5a92;*/
+  color: #f9a825;
   text-decoration: none;
 }
 
 .google {
-  color: #d43076;
+  color: #f57f17;
   text-decoration: none;
 }
 
 .google:hover {
-  color: #dd5a92;
+  color: #f9a825;
   text-decoration: none;
 }
 
 .linkedin {
-  color: #d43076;
+  color: #f57f17;
   text-decoration: none;
 }
 
 .linkedin:hover {
-  color: #dd5a92;
+  color: #f9a825;
   text-decoration: none;
 }
 
 .website_link {
-  color: #d43076;
+  color: #f57f17;
   text-decoration: none;
 }
 
 .website_link:hover {
-  color: #dd5a92;
+  color: #f9a825;
   text-decoration: none;
 }
 
@@ -1049,7 +1057,7 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #d43076;
+  color: #f57f17;
 }
 
 .contact .contact-about p {
