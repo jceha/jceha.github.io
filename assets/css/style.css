@@ -1211,3 +1211,36 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+/*--------------------------------------------------------------
+# Columns for index
+--------------------------------------------------------------*/
+
+.column {
+  float: left;
+  padding: 10px;
+  /*height: 300px;  Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 60%;
+  padding-left:2.5%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
