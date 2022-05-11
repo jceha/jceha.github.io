@@ -30,6 +30,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", serif;
 }
 
+refd {
+  font-family: "Poppins", serif;
+  /*font-size: medium;*/
+}
+
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -80,7 +87,11 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo h1 {
   font-size: 26px;
   margin: 0;
-  padding: 6px 0;
+  /*padding: 6px 0;*/
+  padding-top: 6px;
+  padding-right: 0px;
+  padding-bottom: 6px;
+  padding-left: 10px;
   line-height: 1;
   font-weight: 500;
   letter-spacing: 3px;
@@ -917,7 +928,8 @@ section {
 
 
 .contained-text {
-  text-align:left;
+  /*text-align:left;*/
+  text-align: justify;
       max-width:900px;
 }
 /*--------------------------------------------------------------
@@ -1212,6 +1224,13 @@ section {
   font-size: 13px;
 }
 
+#footer-home {
+  background: #fff;
+  padding: 10px 0;
+  font-size: 14px;
+  /*box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.12);*/
+}
+
 /*--------------------------------------------------------------
 # Columns for index
 --------------------------------------------------------------*/
@@ -1223,12 +1242,13 @@ section {
 }
 
 .left {
-  width: 25%;
+  width: 20%;
 }
 
 .right {
   width: 60%;
   padding-left:2.5%;
+  padding-right:2.5%;
 }
 
 /* Clear floats after the columns */
